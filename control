@@ -1,0 +1,9 @@
+Package: com.dpkg.ccnodelay
+Name: CCNoDelay
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fixes LittleX & FUGap CC Delay
+Maintainer: dpkg_
+Author: dpkg_
+Section: Tweaks
